@@ -29,21 +29,8 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 ## Installation
 
-1. Clone this repository to your local machine.
 
-    ```bash
-    git clone https://github.com/your-username/langchain-medical-bot.git
-    cd langchain-medical-bot
-    ```
-
-2. Create a Python virtual environment (optional but recommended):
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-    ```
-
-3. Install the required Python packages:
+1. Install the required Python packages:
 
     ```bash
     pip install -r requirements.txt
@@ -93,9 +80,6 @@ Contributions to the Llama2 Medical Bot are welcome! If you'd like to contribute
 
 5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
