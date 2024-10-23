@@ -1,19 +1,37 @@
+# Med-chatbot:
+## Title of the Project:
+AI-Driven Personalized Medical Chatbot for Health Consultations
 
+The AI-Driven Personalized Medical Chatbot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores.
 
-# Llama2 Medical Bot
+## Description:
+The integration of a chatbot within a healthcare system, aimed at streamlining medical consultations and improving patient engagement by providing accurate, real-time responses to health-related queries.
 
-The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
+## Features:
+(01) Implements advanced neural network methods for natural language understanding.
 
-## Table of Contents
+(02) Deployable via a framework-based application for scalability.
 
-- [Introduction](#langchain-medical-bot)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+(03) High accuracy and low response time.
+
+(04) Responses are based on structured medical data and health guidelines.
+
+(05) Utilizes JSON data format for medical records and query responses.
+
+## Requirements:
+(01) Operating System: 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+
+(02) Development Environment: Python 3.6 or later is necessary for coding the medical chatbot system.
+
+(03) Deep Learning Frameworks: TensorFlow for model training, HuggingFace for embeddings.
+
+(04) NLP Libraries: LangChain and transformers for advanced conversational capabilities.
+
+(05) Version Control: Git for collaborative development and effective code management.
+
+(06) IDE: VS Code for coding, debugging, and version control integration.
+
+(07) Additional Dependencies: scikit-learn, FAISS for vector storage, Fastapi for deployment.
 
 ## Prerequisites
 
@@ -66,23 +84,22 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 
 5. The bot can be customized to return specific information based on the query and context provided.
 
-## Contributing
+## Results and Impact:
+The Personalized Medical Chatbot enhances accessibility to medical information, reducing the burden on healthcare professionals while offering patients accurate, on-demand medical advice. The integration of advanced AI models ensures a smooth interaction with users, fostering a more inclusive and efficient healthcare environment.
 
-Contributions to the Llama2 Medical Bot are welcome! If you'd like to contribute to the project, please follow these steps:
+This project lays the groundwork for future developments in AI-driven healthcare tools, aiming to improve patient outcomes and simplify medical assistance.
 
-1. Fork the repository to your own GitHub account.
+## Articles Published / References
+[1] Hirushit S, S. Raja, Suwetha S, Yazhini J, “AI Powered Personalized Healthcare Recommender”,International Conference on Advanced AI Systems (ICAIS), March 2024, pp. 105–112.
 
-2. Create a new branch for your feature or bug fix.
+[2] Moonsun Shin, Seonmin Hwang, Sungwon Lee, Aeran Jeong, Byungchul Kim,“Healthone: Personalized Healthcare Recommendation System”, in 2022 IEEE International Conference on Healthcare Informatics (ICHI), November 2022, pp. 221–230.
 
-3. Make your changes and ensure that the code passes all tests.
+[3] Avinash G M, Ramesh BE, Ananya S V, Ananya S, Sharada R, Harshitha M Davangeri,“Healpal: your personal health companion”, in 2024 International Conference on Healthcare Innovation and Technology (HIT), October 2024, pp. 95–102.
 
-4. Create a pull request to the main repository, explaining your changes and improvements.
+[4] Abhaya Kumar Sahoo,Chittaranjan Pradhan,Rabindra K. Barik,Harishchandra Dubey, “DeepReco: Deep Learning Based Health Recommender System Using Collaborative Filtering”, in 2019 IEEE Global Communications Conference (GLOBECOM), May 2019, pp. 3501–3506.
 
-5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
+[5] Prahlad Kr, “AI Health Chatbot using ML”, in 2022 International Conference on Artificial Intelligence and Data Science (ICAIDS), April 2022, pp. 135–140.
 
+[6] Ruchita Singhania, Sana Badagan, K. T. S. Teja, Chetan Jetty, “Medibuddy - A Healthcare Chatbot using AI”, in 2024 International Conference on Innovations in Computing (ICIC), July 2024, pp. 65–72.
 
----
-
-For more information on how to use, configure, and extend the Llama2 Medical Bot, please refer to the Langchain documentation or contact the project maintainers.
-
-Happy coding with Llama2 Medical Bot! 🚀
+[7] Jae Wook Lee,In-Sang Yoo,Jihye Kim,Dong‐Won Kim,Hyun Jeong Jeon,Heon Yoo,Jiwon Shin,Geun-Hyeong Kim,Sang‐Gu Hwang,Seung Park,Yong‐June Kim, “Development of AI-generated Medical Responses Using the ChatGPT for Cancer Patients”, in 2024 Annual Symposium on AI in Medicine (AI-MED), June 2024, pp. 180–186.
